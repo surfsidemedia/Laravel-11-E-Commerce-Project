@@ -1,0 +1,19 @@
+.footer-middle {
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
+}
+.text-right{
+    text-align: right;
+}
+.pt-90 {
+    padding-top: 90px !important;
+}
+.my-account__address-list {
+    display: flex;
+    gap: 1.625rem;
+}
+
+.form-floating>.form-control,
+.form-floating>.form-select {
+    height: 48px;
+}
